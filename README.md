@@ -6,7 +6,7 @@
 - Contact me [here](https://codecave.pl/)
 
 ## 💻 Technology
-![Technology](https://skillicons.dev/icons?i=react,js,html,css,sass,styledcomponents,vite,git,bash,vscode,xd)
+![Technology](https://skillicons.dev/icons?i=react,js,html,css,sass,styledcomponents,vite,astro,git,bash,vscode,xd)
 
 ## 📊 Stats
 <div>
