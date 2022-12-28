@@ -3,7 +3,7 @@
 
 ## 🔗 Links
 - Featured projects available on [my website](https://codecave.pl/)
-- Contact me [here](https://codecave.pl/)
+- Contact me [here](https://codecave.pl/#contact)
 
 ## 💻 Technology
 ![Technology](https://skillicons.dev/icons?i=react,js,html,css,sass,styledcomponents,vite,astro,git,bash,vscode,xd)
